@@ -1,4 +1,4 @@
-# computer graphics lab
+# cglab
 contains computer graphics lab experiments
 
 
